@@ -13,6 +13,10 @@
   <img src="https://img.shields.io/badge/-Redux-764ABC?style=flat-square&logo=Redux&logoColor=white" />
   <img src="https://img.shields.io/badge/-RTL-61DAFB?style=flat-square&logo=react&logoColor=black" />  
   <img src="https://img.shields.io/badge/Docker-2CA5E0?style=flat-square&logo=docker&logoColor=white" />
+  <img src="https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white" />
+  <img src="https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=white" />
+  <img src="https://img.shields.io/badge/-Express.js-grey?style=flat-square&logo=express&logoColor=white" />
+  <img src="https://img.shields.io/badge/-Sequelize-357bbe?style=flat-square&logo=sequelize&logoColor=white" />
 </div>
 
 ##
@@ -26,7 +30,7 @@
 
 ## 🌱 I’m currently learning:
 <div align="center">
-  <img src="https://img.shields.io/badge/-MySQL-4479A1?style=for-the-badge&logo=MySQL&logoColor=white" />
+  <img src="https://img.shields.io/badge/-MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" />
 </div>
 
 ## Contact me:
