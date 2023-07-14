@@ -18,7 +18,12 @@
   <img src="https://img.shields.io/badge/-Express.js-grey?style=flat-square&logo=express&logoColor=white" />
   <img src="https://img.shields.io/badge/-Sequelize-357bbe?style=flat-square&logo=sequelize&logoColor=white" />
   <img src="https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white" />
+  <img src="https://img.shields.io/badge/-MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white" />
+  <img src="https://img.shields.io/badge/styled--components-DB7093?style=flat-square&logo=styled-components&logoColor=white" />
+  <img src="https://img.shields.io/badge/storybook-FF4785?style=flat-square&logo=storybook&logoColor=white" />
 </div>
+
+
 
 ##
 
@@ -26,12 +31,14 @@
   <a href="https://github.com/AronAdamsRapetto">
   <img height="165em" src="https://github-readme-stats.vercel.app/api?username=AronAdamsRapetto&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
   <img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AronAdamsRapetto&layout=compact&langs_count=7&theme=dracula"/>
+  <img height="165em" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=AronAdamsRapetto&theme=dracula"/>
   </a>
 </div>
 
 ## 🌱 I’m currently learning:
 <div align="center">
-  <img src="https://img.shields.io/badge/-MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" />
+  <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" />
+  <img src="https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" />
 </div>
 
 ## Contact me:
@@ -39,7 +46,7 @@
   <a href="https://www.linkedin.com/in/aron-adams-rapetto/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank">
   </a>
-  <a href = "mailto:aronrapetto@hotmail.com">
-    <img src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" target="_blank">
+  <a href = "mailto:aronadams.r@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank">
   </a>
 </div>
